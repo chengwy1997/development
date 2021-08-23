@@ -8,7 +8,7 @@ class Counter extends Component {
     //方法调用后自动更新数据
     increment=()=>{
         this.props.increment()
-        document.getElementById('btn3').remove="display:none"
+        document.getElementById('btn3').style="display:none"
     }
     render() {
         return (
