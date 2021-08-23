@@ -1,0 +1,15 @@
+1. Run the yarn install command before running the directory
+
+Technical summary
+
+
+(1) Router routing component is adopted to switch the three weather pages
+
+
+(2) Redux component is used to realize the change of weather from refresh to rainy day
+
+
+(3) Take the refresh click event and add its refresh display: None attribute, but it has a problem: After the display: None attribute is added, the route re-switches the page and the display: None attribute is lost, and withRouter cannot prevent it from deleting the display attribute
+
+
+(4) The Mock simulation data cannot be carried out. We will learn it later
