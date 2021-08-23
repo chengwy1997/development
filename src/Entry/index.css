@@ -1,0 +1,26 @@
+.wrapper_index {
+    position: absolute;
+    width: 520px;
+    height: 180px;
+    line-height: 180px;
+    text-align: center;
+    background-color: tomato;
+    margin: 0px auto;
+    position: relative;
+    box-sizing: border-box;
+    border: 5px solid black;
+    margin-top: 400px;
+}
+
+.wrapper_index h1 {
+    color: white;
+    font-size: 70px;
+   
+}
+a{
+    text-decoration: none;
+}
+
+.wrapper_index:hover {
+    background-color: green;
+}
