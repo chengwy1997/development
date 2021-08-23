@@ -1,6 +1,6 @@
-1.ÔËÐÐÄ¿Â¼µÄÊ±ºòÏÈÔËÐÐÆäyarn install ÃüÁî
-¼¼Êõ×Ü½á
-	£¨1£©²ÉÈ¡routerÂ·ÓÉ×é¼þ½øÐÐÊµÏÖÈý¸öÌìÆøÒ³ÃæµÄÇÐ»»
-	£¨2£©²ÉÓÃRedux×é¼þ½øÐÐÊµÏÖÌìÆø´ÓË¢ÐÂµ½ÓêÌìµÄ×ª±ä
-	£¨3£©²ÉÈ¡refreshµÄµã»÷ÊÂ¼þÌí¼ÓÆärefreshµÄdisplay£ºnoneÊôÐÔ£¬µ«ÆäÓÐÎÊÌâ£ºÌí¼Ódisplay:noneÊôÐÔÖ®ºó£¬Â·ÓÉÖØÐÂÇÐ»»Ò³ÃæÆädisplay:none¾ÍÃ»ÓÐÁË£¬¼ÓÆäÊôÐÔwithRouter¶¼ÎÞ·¨×èÖ¹ÆäÉ¾³ýdisplayÊôÐÔ
-	£¨4£©MockÄ£ÄâÊý¾ÝÎÞ·¨½øÐÐ£¬ºóÐø»áÑ§Ï°
+1.è¿è¡Œç›®å½•çš„æ—¶å€™å…ˆè¿è¡Œå…¶yarn start å‘½ä»¤
+æŠ€æœ¯æ€»ç»“
+	ï¼ˆ1ï¼‰é‡‡å–routerè·¯ç”±ç»„ä»¶è¿›è¡Œå®žçŽ°ä¸‰ä¸ªå¤©æ°”é¡µé¢çš„åˆ‡æ¢
+	ï¼ˆ2ï¼‰é‡‡ç”¨Reduxç»„ä»¶è¿›è¡Œå®žçŽ°å¤©æ°”ä»Žåˆ·æ–°åˆ°é›¨å¤©çš„è½¬å˜
+	ï¼ˆ3ï¼‰é‡‡å–refreshçš„ç‚¹å‡»äº‹ä»¶æ·»åŠ å…¶refreshçš„displayï¼šnoneå±žæ€§ï¼Œä½†å…¶æœ‰é—®é¢˜ï¼šæ·»åŠ display:noneå±žæ€§ä¹‹åŽï¼Œè·¯ç”±é‡æ–°åˆ‡æ¢é¡µé¢å…¶display:noneå°±æ²¡æœ‰äº†ï¼ŒåŠ å…¶å±žæ€§withRouteréƒ½æ— æ³•é˜»æ­¢å…¶åˆ é™¤displayå±žæ€§
+	ï¼ˆ4ï¼‰Mockæ¨¡æ‹Ÿæ•°æ®æ— æ³•è¿›è¡Œï¼ŒåŽç»­ä¼šå­¦ä¹ 
